@@ -1,0 +1,2 @@
+When a user agrees to share their data, the algorithm would anonymize or encrypt this data before transmitting it. 
+The receiving entity would then be able to use this data for analysis without compromising the user's privacy.
